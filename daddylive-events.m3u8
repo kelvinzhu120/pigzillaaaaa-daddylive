@@ -1,16 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"
 
+#EXTINF:-1 tvg-id="aa9bd9f01d138e74c355d5d74213ed23" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="TV SHOWS",NBA Countdown Live (ABC NY USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="4ca8f1369288966b6a57e0ea25e51406" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mama June: From Not to Hot Season 7 Episode 3 (WETV USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTUvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="db96c505df261c275f9c918d53974e88" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: White Water Season 9 Episode 8 (DISCOVERY USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="59f7f3d6fce86d929664bf1cf558469f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 19 (UNIVISION USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="f796726a99587087e0af8d412a892f51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Never Ever Mets Season 2 Episode 10 (OWN USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -18,23 +24,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="aa9bd9f01d138e74c355d5d74213ed23" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="TV SHOWS",NBA Countdown Live (ABC NY USA)
+#EXTINF:-1 tvg-id="59f7f3d6fce86d929664bf1cf558469f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 19 (UNIVISION USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="00028785d6effa450f0087de638621e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",FIFA World Cup 26: One Year to Go New (FOXNY USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="4ca8f1369288966b6a57e0ea25e51406" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mama June: From Not to Hot Season 7 Episode 3 (WETV USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e2739e991d812d623a1f0f4032161245" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",On Patrol: First Shift Season 3 Episode 87 (REELZ USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -66,11 +66,11 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Houston Dash vs San Diego Wave (TSN2)
+#EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="18dde6050028aebdadcb19bd19fdbf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Iran vs Slovenia (POLSAT SPORT 2 POLAND)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -83,12 +83,6 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (POLSAT SPORT 1 POLAND)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="5c5b808844d3b919fafb110a96d00eef" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",NCAA Outdoor Championships Men's Day 2 Men's &amp; Women's College Track and Field (SPORT KLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -107,6 +101,12 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMD
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="7692000ca4257eb86adf717b1fb9a713" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Houston Dash vs San Diego Wave (TSN2)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="13ccbf8b84f5a808003b212fb5dbab31" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : France vs Italy (ARENA PREMIUM 2 SERBIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -138,17 +138,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NzYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="ebeea4e608313d32cf57090e8942f8c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Houston Astros vs Minnesota Twins (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="928de65848214f10e24d7b27f7027c17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs Oakland Athletics (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -342,35 +342,11 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Nj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="701843d516cd28c87fac568a5abf67eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: Mine Rescue With Freddy &amp; Juan Season 5 (DISCOVERY USA)
+#EXTINF:-1 tvg-id="06e74e29a8b780d7dbdf3f1b0e324cac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Lakefront Bargain Hunt: Renovation Season 4 Episode 9 (MAGNOLIA NETWORK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="c3ba410e2f582335cb1241f6d7b034c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The UnXplained Season 4 (HISTORY USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="b814ed88289f6aa92b40bcd4f3e54e05" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Diners Drive-Ins and Dives Season 51 Episode 20 (THE FOOD NETWORK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="af19d7bb3d142519c4a8614de9752249" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : MI New York vs Texas Super Kings (WILLOW CRICKET)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="fe1aedd11d6dfa5faa06ce61a4baceaf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Missing Presumed Dead Season 2 Episode 2 (NATIONAL GEOGRAPHIC (NGC))
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="373778c965f0774be6ffcefa6ad139af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sweet Life: Los Angeles Season 1 Episode 1 (OWN USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -378,23 +354,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="96aed378d5deec7b5b2966ef93df13ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Great Performances at the Met Season 19 Episode 4 (PBS USA)
+#EXTINF:-1 tvg-id="701843d516cd28c87fac568a5abf67eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gold Rush: Mine Rescue With Freddy &amp; Juan Season 5 (DISCOVERY USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTAvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="5f82a00d877f13e567ba4bf31b43eae5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",BMF Discovery Season 4 Episode 2 (STARZ USA)
+#EXTINF:-1 tvg-id="fe1aedd11d6dfa5faa06ce61a4baceaf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Missing Presumed Dead Season 2 Episode 2 (NATIONAL GEOGRAPHIC (NGC))
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="06e74e29a8b780d7dbdf3f1b0e324cac" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Lakefront Bargain Hunt: Renovation Season 4 Episode 9 (MAGNOLIA NETWORK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="ef0b81bdfdea748c19433befb7fbd813" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Pokerstars Big Game on Tour Season 2 Episode 2 (FOX SPORTS 1 USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -402,11 +372,41 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
 
+#EXTINF:-1 tvg-id="5f82a00d877f13e567ba4bf31b43eae5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",BMF Discovery Season 4 Episode 2 (STARZ USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="96aed378d5deec7b5b2966ef93df13ee" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Great Performances at the Met Season 19 Episode 4 (PBS USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="b814ed88289f6aa92b40bcd4f3e54e05" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Diners Drive-Ins and Dives Season 51 Episode 20 (THE FOOD NETWORK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="c3ba410e2f582335cb1241f6d7b034c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The UnXplained Season 4 (HISTORY USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="d081dd7afc8ff4b0ce5e9bd09467bf8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Argentina - Primera Nacional : Gimnasia y Tiro vs Quilmes (TYC SPORTS ARGENTINA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NDYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="af19d7bb3d142519c4a8614de9752249" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : MI New York vs Texas Super Kings (WILLOW CRICKET)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="1c53c42f6d37085e76edc97c732839d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Utah Royals vs NJ/NY Gotham FC (MSG USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -444,17 +444,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="0e58c9e0f78e8aab690970c3487d64ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Bay FC vs Orlando Pride (OPTUS SPORT)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="08e896ee98587270bc1b6d112f41efc6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",City Confidential Season 9 Episode 2 (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="0b0a07b5b76ab7f0aedde383f08d77da" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Proof Is Out There Season 5 Episode 1 (HISTORY USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="544af5b27b609f538d10ee28ae93fc45" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Real Time With Bill Maher Season 23 Episode 19 (HBO USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -462,11 +462,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="0b0a07b5b76ab7f0aedde383f08d77da" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Proof Is Out There Season 5 Episode 1 (HISTORY USA)
+#EXTINF:-1 tvg-id="0e58c9e0f78e8aab690970c3487d64ab" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",NWSL : Bay FC vs Orlando Pride (OPTUS SPORT)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="9b6bf6f08922ad8a85aea55af880c3f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",WNBA : Dallas Wings vs Las Vegas Aces Live (ION USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -534,17 +534,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MDYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="09b845139bb2c23632ee328a6bb602db" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Couples Therapy Season 4 Episode 18 (SHOWTIME 2 USA (SHO2) USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03OTIvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="8859d86fafe6e98bca6e3b0a3ec21ef3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Portland Timbers vs SJ Earthquakes (FOX SPORTS 1 USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="09b845139bb2c23632ee328a6bb602db" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Couples Therapy Season 4 Episode 18 (SHOWTIME 2 USA (SHO2) USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03OTIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="12d67e45e4902d9a559dee95defc8f61" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Major League Soccer : Los Angeles FC vs Toronto FC (MLS SEASON PASS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -648,17 +648,23 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ni9tb25vLm0zdTg=.m3u8
 
+#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (TV4 TENNIS)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDEvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (ARENA PREMIUM 1 SERBIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (TV4 TENNIS)
+#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (BEIN SPORTS 2 FRANCE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDEvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTKLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -672,23 +678,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (BEIN SPORTS 2 FRANCE)
+#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (COSMOTE SPORT 7 HD)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI4L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="9f7c148fff69eea86ccd3050e1e4712b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Japan vs Serbia (SPORTV2 BR)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (COSMOTE SPORT 7 HD)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjI4L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (MAX SPORT 1 BULGARIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -840,17 +840,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="589416bbea5e57d66397260f1e76503b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="EQUESTRIAN",Equestrian: LOTTO CSIO Sopot 2025 (POLSAT SPORT 3 POLAND)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="8dfd427c5045beffed957fe504835e20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Men's Quarterfinal 1 (MOVISTAR DEPORTES 3 SPAIN)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI2L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="589416bbea5e57d66397260f1e76503b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="EQUESTRIAN",Equestrian: LOTTO CSIO Sopot 2025 (POLSAT SPORT 3 POLAND)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (FOX SOCCER PLUS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -870,6 +870,12 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (BEIN SPORTS 5 MAX FRANCE)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="8dfd427c5045beffed957fe504835e20" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Men's Quarterfinal 1 (COSMOTE SPORT 9 GREECE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
@@ -881,12 +887,6 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="85d36c549ecb4ed0ad7834feced5de7a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",National Rugby League : Gold Coast Titans vs Manly Sea Eagles (BEIN SPORTS 5 MAX FRANCE)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (TV3 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1038,18 +1038,6 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="56ab49e8b0cf9ea81a1d83bc23a52dbc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Ladies European Tour Hulencourt Women’s Open (SKY SPORTS MIX UK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NDkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (SPORT TV1 PORTUGAL)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="ca1eb804faf06ab12aaf0ca24bd79032" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Women's Quarterfinal 4 (MOVISTAR DEPORTES 3 SPAIN)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
@@ -1061,6 +1049,18 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NTUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="618aad20d7589a790923a594f3f4ed17" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : Denmark U20 vs Saudi Arabia U23 (SPORT TV1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="56ab49e8b0cf9ea81a1d83bc23a52dbc" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Ladies European Tour Hulencourt Women’s Open (SKY SPORTS MIX UK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NDkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="ca1eb804faf06ab12aaf0ca24bd79032" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png" group-title="SQUASH",Premier Padel. Italy (T2025): Women's Quarterfinal 4 (COSMOTE SPORT 9 GREECE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1086,23 +1086,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="ea482c20b837e1c3cd1020d965a1e8eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/sailing-logo.png" group-title="SAILING / BOATING",Dubrovnik - Group Stages Race off (CBS SPORTS NETWORK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (MATCH TV RUSSIA)
+#EXTINF:-1 tvg-id="ea482c20b837e1c3cd1020d965a1e8eb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/sailing-logo.png" group-title="SAILING / BOATING",Dubrovnik - Group Stages Race off (CBS SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (ARENA PREMIUM 1 SERBIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1110,17 +1104,23 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (NOVA SPORTS 5 GREECE)
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (MATCH TV RUSSIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM1L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="0943ddd6930aa3d46ba86fb3cfa7b8ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Netherlands vs Turkey (SPORTKLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (NOVA SPORTS 5 GREECE)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjM1L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="2bf19e6990121ffca0efe84a178342ad" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",ONE Friday Fights (MATCH BOX RUSSIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1302,35 +1302,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03Nj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (SKY SPORTS F1 UK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="6b4444890e81f1b1720e9d181ca79328" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",ICF Canoe Slalom World Cup Day 1 (SKY SPORT 4 NZ)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
+#EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (SKY SPORTS F1 UK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORTDIGITAL FUSSBALL DE)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="cea6210a1ba4e3a4dcddb1dac67155a4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : FYR Macedonia vs Latvia (ARENA SPORT 4 SERBIA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODEvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (BEIN SPORTS 1 MALAYSIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1338,17 +1320,35 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (CANAL 11 PORTUGAL)
+#EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="cea6210a1ba4e3a4dcddb1dac67155a4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : FYR Macedonia vs Latvia (ARENA SPORT 4 SERBIA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (SPORTDIGITAL FUSSBALL DE)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="6da2b0d09ee7fbcd1c171a908db0fa1f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Practice Session - Montreal (BANDSPORTS BRASIL)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (CANAL 11 PORTUGAL)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="130510da8833f79cc7707d8c0a155052" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Spain U19 vs Denmark U19 (BEIN SPORTS MENA 4)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1410,29 +1410,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (FOX DEPORTES)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="f75db45f949136f476376fb8d33747f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Lithuanian League : Suduva vs Zalgiris Kaunas (SPORT KLUB 4 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="23863fda16ffa62da737f93e0dc8c605" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",MTS Streetball League : Sokobanja (ARENA SPORT 3 SERBIA)
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (FOX DEPORTES)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (SPORT TV1 PORTUGAL)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="aab1a6bb9e2cdf018ad0c520a2168d40" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Men's Basketball National League (DIGI SPORTS 3 ROMANIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1440,17 +1428,29 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAyL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="cbb7b05eba484c0016c8347894724c2d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Greece W vs Slovenia W (SPORT KLUB 3 CROATIA)
+#EXTINF:-1 tvg-id="23863fda16ffa62da737f93e0dc8c605" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",MTS Streetball League : Sokobanja (ARENA SPORT 3 SERBIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="5ba3b018ca1e38137191d076aaf12716" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Montenegro W vs Hungary W (DUNA WORLD HUNGARY)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="6d61f090ec9f80dfe14f7e43a1a86645" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Maurice Revello Tournament : France U20 vs Mexico U20 (SPORT TV1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="cbb7b05eba484c0016c8347894724c2d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Greece W vs Slovenia W (SPORT KLUB 3 CROATIA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="5ba3b018ca1e38137191d076aaf12716" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League W : Montenegro W vs Hungary W (ARENA PREMIUM 3 SERBIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1470,6 +1470,12 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (RALLY TV)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA3L21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="2b478ef36fd540b50f1b415494b47805" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="TV SHOWS",2025 U.S. Open Golf Championship Second Round Live (NBCNY USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
@@ -1482,47 +1488,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03Nj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (RALLY TV)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA3L21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="f2f6b35e3ebd8c4a50d8c41db132f75f" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",Athletics International Meeting of Seine-et-Marne 2025 (MOVISTAR DEPORTES 2 SPAIN)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="2b478ef36fd540b50f1b415494b47805" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="TV SHOWS",2025 U.S. Open Golf Championship Second Round Live (NBC USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="d21b07ed98e1e4f54fb343c7abe57bc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day at the Races (FOX SPORTS 2 USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (TV4 MOTOR)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="a93705a011ac53b75be823da9010b1d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Czech Republic vs Montenegro (ARENA SPORT 2 SERBIA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="eb0ad6e9a621747fc7667887d5f68cf7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League Women : Sweden vs. Ukraine (SVT 2 SWEDEN)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1530,17 +1500,47 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (PDC TV)
+#EXTINF:-1 tvg-id="d21b07ed98e1e4f54fb343c7abe57bc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day at the Races (FOX SPORTS 2 USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (DAZN2 DE)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="2b478ef36fd540b50f1b415494b47805" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="TV SHOWS",2025 U.S. Open Golf Championship Second Round Live (NBC USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="eb0ad6e9a621747fc7667887d5f68cf7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League Women : Sweden vs. Ukraine (JOJ SPORT SLOVAKIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="a93705a011ac53b75be823da9010b1d7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Czech Republic vs Montenegro (ARENA SPORT 2 SERBIA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (PDC TV)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00My9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="decadcf9884be3cd0db6ffb0c5d1639f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",European Rally Championship Poland: Stage 1 (TV4 MOTOR)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e3545a5d9f5cebf8e040d566b7be948e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC Darts Group Play World Cup of Darts (SKY SPORTS ACTION UK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1572,29 +1572,23 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 1 UK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORT",Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORTS F1 UK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
 
+#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 1 UK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="c8ad56439e8e40090507de0a9b23e242" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca (DIGI SPORT 1 ROMANIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAwL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 5 UK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="5f3aeef567966d351b3ff863100b490f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Spain vs Croatia (ARENA SPORT 1 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1607,6 +1601,12 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00Mz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="d7b2f36643aafce1608b11f52cadc401" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIM Speedway GP | Round 4 | Manchester Race 1 (TNT SPORTS 5 UK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e4117231050394c3601185f0d53452fd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORT",Formula 1 : Pirelli Canadian Grand Prix - Practice 1 (SKY SPORT F1 DE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1758,6 +1758,12 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="35376e274dd804a7ed3fce11a0f66373" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Men's College World Series : Arizona vs Coastal Carolina (ESPN USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-1 tvg-id="1ed21cae1ef9d45a96b12863bc5d2070" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="BOXING",Boxing : Andrew Tabiti vs Jacob Dickson (DAZN PPV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
@@ -1770,29 +1776,23 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01My9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="35376e274dd804a7ed3fce11a0f66373" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Men's College World Series : Arizona vs Coastal Carolina (ESPN USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="e0dd3655d2f461dadb1b0e130d3665fa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="BEACH SOCCER",F. Praia: 1/4 Final - EURO Winner S Cup (SPORT TV5 POUTUGAL)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="90a98e6f2e87a60e77bc3d1704321193" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",NatWest T20 Blast : Gloucestershire vs Somerset (SKY SPORTS CRICKET UK)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="fea96f3db53d0eaa7f949e1433c4e47c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA U19 European Championship : Romania U19 vs Montenegro U19 (SPORTDIGITAL FUSSBALL DE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcxL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="90a98e6f2e87a60e77bc3d1704321193" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",NatWest T20 Blast : Gloucestershire vs Somerset (SKY SPORTS CRICKET UK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SKY SPORTS GOLF UK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -1968,12 +1968,6 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="53d2141b1fb2b23428a93168c01c368f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers (LOITV)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTUzL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="2044191e03e99ba0c51a234dfeca3747" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Cork City vs Bohemians (LOITV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
@@ -1986,17 +1980,11 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="f98883316614f49f5a528ffce71da405" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Derry City vs Galway United (LOITV)
+#EXTINF:-1 tvg-id="8c1d2ee925a8bcaeb3cdcd54691b3174" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Finn Harps vs Wexford (LOITV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="8cd722d04b486980c1d59d63dbfdc140" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Dundalk vs UCD (LOITV)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU2L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU3L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="3d97141e0504e6dad7e233314dd7ebc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : St Patrick's vs Drogheda United (LOITV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2004,11 +1992,23 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="8c1d2ee925a8bcaeb3cdcd54691b3174" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Finn Harps vs Wexford (LOITV)
+#EXTINF:-1 tvg-id="f98883316614f49f5a528ffce71da405" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Derry City vs Galway United (LOITV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU3L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNTIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="53d2141b1fb2b23428a93168c01c368f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - Premier Division : Shelbourne vs Shamrock Rovers (LOITV)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTUzL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="8cd722d04b486980c1d59d63dbfdc140" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Dundalk vs UCD (LOITV)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTU2L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="8ed8e2c04bcc92f76cf15b8013bbaa9c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Ireland Republic - First Division : Treaty United vs Bray Wanderers (LOITV)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2022,11 +2022,11 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04ODIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (NBCS CALIFORNIA)
+#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (VTV+ URUGUAY)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzkxL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="5a18677d846beab0d89b79f52bd7d939" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 193 (ABC NY USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2034,23 +2034,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (VTV+ URUGUAY)
+#EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (NBCS CALIFORNIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzkxL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NTUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (GOLF CHANNEL USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (GOLTV USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (FOX SOCCER PLUS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2064,17 +2058,23 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTEvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (SKY SPORTS+ UK)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
+
 #EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (CANAL+ FRANCE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMjEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="a8cd1194a6d10fd29e2780e519687faf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY LEAGUE",Super League Rugby : Hull FC vs Castleford Tigers (SKY SPORTS+ UK)
+#EXTINF:-1 tvg-id="cc9183e3b78a06d821dbbf6da7c56691" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguay - Primera Division : Torque vs Progreso (GOLTV USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="1c845d689b870dd28c7c0a743ab96c44" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY UNION",Top 14 : Aviron Bayonnais vs Clermont (MOVISTAR DEPORTES 2 SPAIN)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2136,29 +2136,29 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BEIN SPORTS 1 MALAYSIA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (SPORT TV1 PORTUGAL)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BANDSPORTS BRASIL)
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BEIN SPORTS 1 MALAYSIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzEyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (ARENA SPORT 1 CROATIA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="6587623c438637517c19ab6fe0fa405b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTORSPORT",F1 Academy : Canadian Grand Qualifying Session - Montreal (BANDSPORTS BRASIL)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="2eb80ad3817c34a82f27478762cf55ba" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Golden League : Slovakia vs Portugal (JOJ SPORT SLOVAKIA HD)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2196,17 +2196,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="aa93e6a7cadaa552116559bce46db285" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png" group-title="TV SHOWS",UFC Live Usman vs. Buckley Live (ESPN2 USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="2314bb51666a29a9c65ffb90e77b3541" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="TV SHOWS",FanDuel Racing Live (ALTITUDE SPORTS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIzL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="aa93e6a7cadaa552116559bce46db285" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png" group-title="TV SHOWS",UFC Live Usman vs. Buckley Live (ESPN2 USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="a1217803a8f4bb0c7974cb3aad85aec8" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTORSPORT",Formula 1 : Pirelli Canadian Grand Prix - Practice 2 (SKY SPORTS F1 UK)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2376,17 +2376,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04OTYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Miami Marlins (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="3d8ae5edd8f548f8ec65ffd9731df1e9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Philadelphia Phillies vs Toronto Blue Jays (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="db48fec093f943a0382840f2453a57a0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Washington Nationals vs Miami Marlins (MASN USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2436,17 +2436,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="c0f1d88249be2880d7899a403bb7e5bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Season 41 Episode 200 (ABC NY USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="74c2f9de3134eef76c976073c0607a6a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Miss Universe Latina el reality New (TELEMUNDO USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="c0f1d88249be2880d7899a403bb7e5bf" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Season 41 Episode 200 (ABC NY USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="159820c1795095c7cd37a12de32715fe" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",2025 Men's College World Series : Louisville vs. Oregon State (ESPN USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2490,17 +2490,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MDUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Tampa Bay Rays (SPORTSNET NEW YORK USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs New York Yankees (YES USA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="6cfe02e4af2ccdfe680e5ab454ee6981" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Tampa Bay Rays (SPORTSNET NEW YORK USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="20f5be9295f816efa66832493a6dc132" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs New York Yankees (SPORTSNET ONE)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
@@ -2520,17 +2520,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="fb65b824e3334aeac5c17687ac77fc99" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",WNBA : Chicago Sky vs Atlanta Dream Live (ION USA)
-#EXTVLCOPT:http-origin=https://lefttoplay.xyz
-#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="5f46d834414dd96fef817887ca0c0490" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" group-title="AM. FOOTBALL",CFL : Ottawa Redblacks vs Montreal Alouettes (TSN5)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
 #EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="fb65b824e3334aeac5c17687ac77fc99" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="BASKETBALL",WNBA : Chicago Sky vs Atlanta Dream Live (ION USA)
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="5f46d834414dd96fef817887ca0c0490" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" group-title="AM. FOOTBALL",CFL : Ottawa Redblacks vs Montreal Alouettes (RDS CA)
 #EXTVLCOPT:http-origin=https://lefttoplay.xyz
